@@ -52,12 +52,12 @@ Copy the `.env.example` file to a `.env` file. Open the .env file with your favo
 Open the orgmanager folder with the terminal/console and run
 
 ```sh
-composer install
+composer update
 ```
 and
 
 ```sh
-php artisan key:generate && php artisan migrate
+php artisan app:install
 ```
 [block:api-header]
 {
