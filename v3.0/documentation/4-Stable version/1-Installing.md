@@ -31,12 +31,12 @@ If you try to access OrgManager at his step, it should show an error. Don't worr
   "title": "3. Setup .env"
 }
 [/block]
-Copy the `.env.example` file to a `.env` file. Open the .env file with your favorite text editor/IDE and fill the database, reCaptcha and GitHub settings. (You can leave the rest as they are, although it is recommended setting up [Bugsnag](https://www.bugsnag.com/) in production).
+Copy the `.env.example` file to an `.env` file. Open the .env file with your favourite text editor/IDE and fill the database, reCaptcha and GitHub settings. (You can leave the rest as they are, although it is recommended setting up [Bugsnag](https://www.bugsnag.com/) in production).
 [block:callout]
 {
   "type": "warning",
   "title": "Remember to disable debug mode!",
-  "body": "remember to set `DEBUG` to `false` and `APP_ENV` to `prod`."
+  "body": "Remember to set `DEBUG` to `false` and `APP_ENV` to `prod`."
 }
 [/block]
 
@@ -62,4 +62,4 @@ php artisan app:install
   "title": "5. Done!"
 }
 [/block]
-You have now the latest OrgManager stable version up an running in your server! (Note that OrgManager is not auto-updated, read the updating section for more info).
+You have now the latest OrgManager stable version up and running in your server! (Note that OrgManager is not auto-updated, read the updating section for more info).

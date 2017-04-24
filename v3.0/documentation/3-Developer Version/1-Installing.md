@@ -42,7 +42,7 @@ Now, if you configured custom domains, you can now access `orgmanager.{yourtld}`
   "title": "3. Setup .env"
 }
 [/block]
-Copy the `.env.example` file to a `.env` file. Open the .env file with your favorite text editor/IDE and fill the database, reCaptcha and GitHub settings (you can leave the rest as they are).
+Copy the `.env.example` file to an `.env` file. Open the .env file with your favourite text editor/IDE and fill the database, reCaptcha and GitHub settings (you can leave the rest as they are).
 [block:api-header]
 {
   "type": "basic",
