@@ -19,3 +19,20 @@ People are the most important part of the code. OrgManager was created to solve 
 * [Laracasts](https://laracasts.com/), [StackOverflow](https://stackoverflow.com) & [The Laravel Community](https://laravel.com) have helped from the first commit.
 * [Simon Vansintjan](http://simon.vansintjan.net) and [Jan-Christoph Borchardt](http://jancborchardt.net) provided the first feedback and suggested some core-features.
 * [Taylor Otwell](https://github.com/taylorotwell) & [Rasmus Lerdorf](http://lerdorf.com/bio/) created [Laravel](https://laravel.com) & [PHP](https://php.net) respectively.
+[block:api-header]
+{
+  "title": "Backers"
+}
+[/block]
+
+[block:embed]
+{
+  "html": false,
+  "url": "https://opencollective.com/orgmanager",
+  "title": "OrgManager is on Open Collective",
+  "favicon": "https://opencollective.com/public/images/favicon.ico.png",
+  "image": "https://opencollective-production.s3-us-west-1.amazonaws.com/d598b8b0-282b-11e7-bfce-a9efbaccb8a9.png",
+  "iframe": true,
+  "width": ""
+}
+[/block]

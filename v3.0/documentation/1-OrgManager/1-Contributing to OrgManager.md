@@ -19,6 +19,11 @@ Stars on GitHub are a measure of the project quality and usage. If you take a mo
 
 "Open GitHub Organizations" are GitHub Organizations everyone can join (maybe they have to make a small contribution, but then they're in). If you are an administrator, you may find OrgManager useful. Have a look at the [OrgManager Hosted Version](doc:about-the-orgmanager-hosted-version) and report back any feedback you have. If you are member of an open organization, you can ask your administrators to try it.
 
+## If your organizations would like to sponsor OrgManager (AKA Sponsoring OrgManager)
+
+Does your organization use OrgManager? Ask your manager or marketing team if you're interested in supporting our project. Support will allow the maintainers to dedicate more time for maintenance and new features for everyone. Also, your company's logo will show on GitHub and on our site -- who doesn't want a little extra exposure?
+You can apply for the sponshorship using the [OrgManager Open Collective](https://opencollective.com/orgmanager).
+
 ## If you are an influential person (AKA Sharing OrgManager)
 
 It would be awesome if you could share OrgManager in the social networks, especially if your audience is developer-related. You can also upvote us on Product Hunt!
