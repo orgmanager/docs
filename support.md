@@ -1,5 +1,6 @@
-excerpt: OrgManager provides some official ways to get support, chat or learn more.
-slug: orgmanager-support-channels
+---
+title: OrgManager Support Channels
+---
 
 Although a documentation is provided, we are humans, and humans like to talk to each other. They also have unique problems. To keep humans happy (:smile:) you can contact us in a variety of ways, to troubleshoot your problem, suggest a new feature, help on the project or just to say hi.
 

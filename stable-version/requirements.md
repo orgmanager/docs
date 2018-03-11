@@ -1,5 +1,6 @@
-excerpt: This is what your computer needs in order to run the OrgManager Stable Version
-slug: prod-requirements
+---
+title: OrgManager Stable Version Requirements
+---
 
 To install and run the OrgManager Stable Version, you'll need:
 

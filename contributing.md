@@ -1,5 +1,6 @@
-excerpt: There are lots of ways you can contribute to OrgManager. Here you can find a few
-slug: contributing-to-orgmanager
+---
+title: Contributing to OrgManager
+---
 
 **Everyone** can contribute to OrgManager, in either one way or another. Here, you can find a few ways to do it:
 
@@ -26,14 +27,4 @@ You can apply for the sponshorship using the [OrgManager Open Collective](https:
 
 ## If you are an influential person (AKA Sharing OrgManager)
 
-It would be awesome if you could share OrgManager in the social networks, especially if your audience is developer-related. You can also upvote us on Product Hunt!
-[block:embed]
-{
-  "type": "basic",
-  "title": "OrgManager",
-  "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fcards.producthunt.com%2Fcards%2Fposts%2F89786%3Fv%3D1&url=https%3A%2F%2Fwww.producthunt.com%2Fposts%2Forgmanager&image=https%3A%2F%2Fph-files.imgix.net%2Fd10a646c-d11d-4552-99fb-33aca6f85dd0%3Fauto%3Dformat%26fit%3Dmax%26h%3D405%26w%3D500&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=producthunt\" width=\"500\" height=\"405\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>",
-  "url": "https://www.producthunt.com/posts/orgmanager",
-  "favicon": "https://assets.producthunt.com/assets/favicon-9247d7de492fd8ec2553739d3635dca4.ico",
-  "image": "https://ph-files.imgix.net/d10a646c-d11d-4552-99fb-33aca6f85dd0?auto=format&fit=max&h=405&w=500"
-}
-[/block]
+It would be awesome if you could share OrgManager in the social networks, especially if your audience is developer-related. Thanks!

@@ -1,5 +1,6 @@
-excerpt: This is what your computer needs in order to run the OrgManager Development Version
-slug: dev-requirements
+---
+title: OrgManager Developer Version Requirements
+---
 
 To install and run the OrgManager Development Version, you'll need:
 

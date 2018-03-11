@@ -1,5 +1,6 @@
-excerpt: Everything you need to know about OrgManager
-slug: about-orgmanager
+---
+title: About OrgManager
+---
 
 OrgManager is an open-source project that aims to provide an invite system for GitHub Organizations, but, what does that really mean?
 

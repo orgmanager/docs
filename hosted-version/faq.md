@@ -1,5 +1,6 @@
-excerpt: Frequently Asked Questions about the OrgManager Hosted Version
-slug: the-hosted-version-faq
+---
+title: Frequently Asked Questions
+---
 
 ## Why does OrgManager need admin access to my organization?
 
@@ -17,4 +18,4 @@ Read the [OrgManager Support Channels](doc:orgmanager-support-channels) page.
 
 ## Why don't you have a domain name for OrgManager?
 
-I believe the budget for open-source projects should be $0, and since I started OrgManager, I haven't spent anything besides the hosting. If you would like to donate, head over to our [Gratipay](https://gratipay.com/OrgManager) page.
+I believe the budget for open-source projects should be $0, and since I started OrgManager, I haven't spent anything besides the hosting. If you would like to donate, head over to our [OpenCollective](https://opencollective.com/orgmanager) page.
