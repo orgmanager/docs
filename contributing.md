@@ -18,11 +18,11 @@ Stars on GitHub are a measure of the project quality and usage. If you take a mo
 
 ## If you are member of an "Open GitHub Organization" (AKA Using OrgManager)
 
-"Open GitHub Organizations" are GitHub Organizations everyone can join (maybe they have to make a small contribution, but then they're in). If you are an administrator, you may find OrgManager useful. Have a look at the [OrgManager Hosted Version](doc:about-the-orgmanager-hosted-version) and report back any feedback you have. If you are member of an open organization, you can ask your administrators to try it.
+"Open GitHub Organizations" are GitHub Organizations everyone can join (maybe they have to make a small contribution, but then they're in). If you are an administrator, you may find OrgManager useful. If you are member of an open organization, you can ask your administrators to try it.
 
 ## If you would like to support OrgManager (AKA Financial Support)
 
-Does your organization use OrgManager? Do you use it for your personal projects? You can help me keep mantaining and hosting OrgManager for free by pledging **as low as $1/month** to my Patreon page. You'll also be supporting a wide range of other non-profit & open-source projects. **[You can do that from my Patreon page](https://www.patreon.com/m1guelpiedrafita)**.
+Does your organization use OrgManager? Do you use it for your personal projects? You can help me keep mantaining OrgManager by pledging **as low as $1/month** to my Patreon page. You'll also be supporting a wide range of other non-profit & open-source projects. **[You can do that from my Patreon page](https://www.patreon.com/m1guelpiedrafita)**.
 
 ## If you are an influential person (AKA Sharing OrgManager)
 
