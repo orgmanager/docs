@@ -12,8 +12,8 @@ OrgManager is licensed under the [Mozilla Public License Version 2.0 (MPL)](http
 
 ### Invite system for GitHub Organizations
 
-I found a problem with the current GitHub Organizations' invite system, and created OrgManager to fix that problem while learning. You can read more in [this article](https://hackernoon.com/orgmanager-free-invite-system-for-your-github-orgs-4dd6c96a3a6).
+I found a problem with the current GitHub Organizations' invite system, and created OrgManager to fix that problem while learning. You can read more in [this article](https://miguelpiedrafita.com/orgmanager/).
 
 ### Know more
 
-I wrote an article about OrgManager on HackerNoon (Medium). If you want to know more about what problem does OrgManager solve, how to use it and how to contribute, I recommend you to go and [read it](https://hackernoon.com/orgmanager-free-invite-system-for-your-github-orgs-4dd6c96a3a6).
+I wrote an article about OrgManager on HackerNoon (Medium). If you want to know more about what problem does OrgManager solve, how to use it and how to contribute, I recommend you to go and [read it](https://miguelpiedrafita.com/orgmanager/).
